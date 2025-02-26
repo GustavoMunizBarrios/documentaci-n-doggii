@@ -1,4 +1,3 @@
-Aquí tienes la guía estilizada y corregida, lista para ser copiada y pegada en tu archivo de Word. 😊📄
 
 ---
 
