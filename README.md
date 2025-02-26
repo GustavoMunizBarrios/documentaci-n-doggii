@@ -91,7 +91,8 @@ Aquí tienes la guía estilizada y corregida, lista para ser copiada y pegada en
      - Crea un usuario con un nombre y contraseña segura (ejemplo: `doggi_user`).  
      - Guarda bien la contraseña porque la necesitarás en tu `.env`.  
    - **9.4** Cuando aparezca la siguiente pantalla:  
-     [imagen]  
+     [![mondodbExample](https://github.com/user-attachments/assets/7606bf92-f90d-40af-9d89-58912ebd0b37)
+]  
      Copia la URL desde el inicio hasta `...mongodb.net` como se indica en la imagen.  
    - **9.5** Pega esa URL en el apartado `MONGO_URI` de tu `.env`.  
 
